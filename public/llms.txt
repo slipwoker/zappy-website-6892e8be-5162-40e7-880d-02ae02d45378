@@ -1,0 +1,57 @@
+# הדס טובול — Generative Engine Optimization Map
+
+> A בינה מלאכותית לעסקים business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-6892e8be.zappy5.app
+גלו ייעוץ בינה מלאכותית לעסקים מקצועי שמביא תוצאות אמיתיות. צרו קשר עוד היום לייעוץ ראשוני ללא עלות!
+
+### שירותים
+https://-6892e8be.zappy5.app/services
+פתרונות הטמעת בינה מלאכותית בעסקים וחברות מותאמים אישית. אוטומציות חכמות, סוכני AI ייעודיים וייעוץ מקצועי לצמיחה עסקית.
+
+### אודות
+https://-6892e8be.zappy5.app/about
+גלו את הסיפור מאחורי שירותי ייעוץ בינה מלאכותית לעסקים שלנו. למדו על הגישה, הערכים והמחויבות שלנו להצלחת הלקוחות.
+
+### צור קשר
+https://-6892e8be.zappy5.app/contact
+צרו קשר לקבלת ייעוץ בינה מלאכותית לעסקים מקצועי. פגישת ייעוץ ראשונית ללא עלות. נשמח לענות על כל שאלה ולעזור לכם להתחיל.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-6892e8be.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-6892e8be.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-6892e8be.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About הדס טובול
+הדס טובול is a business in the בינה מלאכותית לעסקים industry.
+
+## Target Audience
+בעלי עסקים וחברות שרוצים להתייעל, לחסוך זמן וכסף ולצמוח
+
+## Industry
+בינה מלאכותית לעסקים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-6892e8be.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-6892e8be.zappy5.app/robots.txt
