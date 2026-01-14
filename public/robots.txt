@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hadas-tobol-ai-and-automation.zappy5.app/sitemap.xml
+Sitemap: https://hadast.ai.com/sitemap.xml
