@@ -1,47 +1,57 @@
-# Business — Generative Engine Optimization Map
+# הדס טובול- בינה מלאכותית ואוטומציות — Generative Engine Optimization Map
+
+> A בינה מלאכותית לעסקים business.
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://example.com
+https://hadas-tobol-ai-and-automation.zappy5.app
 גלו ייעוץ בינה מלאכותית לעסקים מקצועי שמביא תוצאות אמיתיות. צרו קשר עוד היום לייעוץ ראשוני ללא עלות!
 
 ### שירותים
-https://example.com/services
+https://hadas-tobol-ai-and-automation.zappy5.app/services
 פתרונות הטמעת בינה מלאכותית בעסקים וחברות מותאמים אישית. אוטומציות חכמות, סוכני AI ייעודיים וייעוץ מקצועי לצמיחה עסקית.
 
 ### אודות
-https://example.com/about
+https://hadas-tobol-ai-and-automation.zappy5.app/about
 גלו את הסיפור מאחורי שירותי ייעוץ בינה מלאכותית לעסקים שלנו. למדו על הגישה, הערכים והמחויבות שלנו להצלחת הלקוחות.
 
 ### צור קשר
-https://example.com/contact
+https://hadas-tobol-ai-and-automation.zappy5.app/contact
 צרו קשר לקבלת ייעוץ בינה מלאכותית לעסקים מקצועי. פגישת ייעוץ ראשונית ללא עלות. נשמח לענות על כל שאלה ולעזור לכם להתחיל.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://hadas-tobol-ai-and-automation.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://hadas-tobol-ai-and-automation.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://hadas-tobol-ai-and-automation.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About הדס טובול- בינה מלאכותית ואוטומציות
+הדס טובול- בינה מלאכותית ואוטומציות is a business in the בינה מלאכותית לעסקים industry.
+
+## Target Audience
+בעלי עסקים וחברות שרוצים להתייעל, לחסוך זמן וכסף ולצמוח
+
+## Industry
+בינה מלאכותית לעסקים
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://hadas-tobol-ai-and-automation.zappy5.app/sitemap.xml
+- **Robots.txt**: https://hadas-tobol-ai-and-automation.zappy5.app/robots.txt
