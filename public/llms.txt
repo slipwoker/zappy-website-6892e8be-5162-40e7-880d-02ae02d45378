@@ -1,6 +1,4 @@
-# הדס טובול- בינה מלאכותית ואוטומציות — Generative Engine Optimization Map
-
-> A בינה מלאכותית לעסקים business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,15 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About הדס טובול- בינה מלאכותית ואוטומציות
-הדס טובול- בינה מלאכותית ואוטומציות is a business in the בינה מלאכותית לעסקים industry.
-
-## Target Audience
-בעלי עסקים וחברות שרוצים להתייעל, לחסוך זמן וכסף ולצמוח
-
-## Industry
-בינה מלאכותית לעסקים
-
+## About Business
 ---
 
 # Additional Resources
