@@ -1,57 +1,47 @@
-# הדס טובול- בינה מלאכותית ואוטומציות — Generative Engine Optimization Map
-
-> A בינה מלאכותית לעסקים business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://hadast.ai.com
+https://hgsmarts-ai.com
 גלו ייעוץ בינה מלאכותית לעסקים מקצועי שמביא תוצאות אמיתיות. צרו קשר עוד היום לייעוץ ראשוני ללא עלות!
 
 ### שירותים
-https://hadast.ai.com/services
+https://hgsmarts-ai.com/services
 פתרונות הטמעת בינה מלאכותית בעסקים וחברות מותאמים אישית. אוטומציות חכמות, סוכני AI ייעודיים וייעוץ מקצועי לצמיחה עסקית.
 
 ### אודות
-https://hadast.ai.com/about
+https://hgsmarts-ai.com/about
 גלו את הסיפור מאחורי שירותי ייעוץ בינה מלאכותית לעסקים שלנו. למדו על הגישה, הערכים והמחויבות שלנו להצלחת הלקוחות.
 
 ### צור קשר
-https://hadast.ai.com/contact
+https://hgsmarts-ai.com/contact
 צרו קשר לקבלת ייעוץ בינה מלאכותית לעסקים מקצועי. פגישת ייעוץ ראשונית ללא עלות. נשמח לענות על כל שאלה ולעזור לכם להתחיל.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://hadast.ai.com/privacy
+https://hgsmarts-ai.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://hadast.ai.com/terms
+https://hgsmarts-ai.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://hadast.ai.com/accessibility
+https://hgsmarts-ai.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About הדס טובול- בינה מלאכותית ואוטומציות
-הדס טובול- בינה מלאכותית ואוטומציות is a business in the בינה מלאכותית לעסקים industry.
-
-## Target Audience
-בעלי עסקים וחברות שרוצים להתייעל, לחסוך זמן וכסף ולצמוח
-
-## Industry
-בינה מלאכותית לעסקים
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://hadast.ai.com/sitemap.xml
-- **Robots.txt**: https://hadast.ai.com/robots.txt
+- **Sitemap**: https://hgsmarts-ai.com/sitemap.xml
+- **Robots.txt**: https://hgsmarts-ai.com/robots.txt

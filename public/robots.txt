@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hadast.ai.com/sitemap.xml
+Sitemap: https://hgsmarts-ai.com/sitemap.xml
