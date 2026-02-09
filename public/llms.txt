@@ -1,6 +1,4 @@
-# הדס טובול- בינה מלאכותית ואוטומציות — Generative Engine Optimization Map
-
-> A בינה מלאכותית לעסקים business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -22,6 +20,10 @@ https://hgsmarts-ai.com/about
 https://hgsmarts-ai.com/contact
 צרו קשר לקבלת ייעוץ בינה מלאכותית לעסקים מקצועי. פגישת ייעוץ ראשונית ללא עלות. נשמח לענות על כל שאלה ולעזור לכם להתחיל.
 
+### תודה רבה! - הדס טובול
+https://hgsmarts-ai.com/thank-you
+תודה שפנית אלינו. קיבלנו את הודעתך בנושא ייעוץ בינה מלאכותית ואוטומציות ונחזור אליך בהקדם האפשרי.
+
 ## Legal & Policy
 
 ### Privacy Policy
@@ -40,15 +42,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About הדס טובול- בינה מלאכותית ואוטומציות
-הדס טובול- בינה מלאכותית ואוטומציות is a business in the בינה מלאכותית לעסקים industry.
-
-## Target Audience
-בעלי עסקים וחברות שרוצים להתייעל, לחסוך זמן וכסף ולצמוח
-
-## Industry
-בינה מלאכותית לעסקים
-
+## About Business
 ---
 
 # Additional Resources
